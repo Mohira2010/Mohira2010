@@ -29,7 +29,7 @@ I love solving algorithmic problems and learning new techniques in **sport progr
 
 ### 📫 Contact Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohira-nasimjanova-98a85735b/)
-- 🐙 [GitHub](https://github.com/anvrvna-m)
+- 🐙 [GitHub](https://github.com/Mohira2010)
 
 
 ---
